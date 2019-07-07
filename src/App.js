@@ -9,7 +9,7 @@ function App() {
         <p>
           Welcome to Quiet time
         </p>
-        <p>By an Appcellon student</p>       
+        <p> &copy; Appcellon student</p>       
        
       </header>
     </div>
