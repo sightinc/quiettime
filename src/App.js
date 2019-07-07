@@ -6,12 +6,18 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>
+        <h1>
           Welcome to Quiet time
-        </p>
-        <p> &copy; Appcellon student</p>       
-       
+        </h1>        
       </header>
+      <main>
+        <p></p>
+
+      </main>
+      <footer>
+      <p> &copy; Appcellon student  2019 - K &trade;</p>       
+       
+      </footer>
     </div>
   );
 }
