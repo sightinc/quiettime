@@ -8,7 +8,8 @@ function App() {
       <header className="App-header">
         <p>
           Welcome to Quiet time
-        </p>       
+        </p>
+        <p>By an Appcellon student</p>       
        
       </header>
     </div>
