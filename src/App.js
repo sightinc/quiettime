@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>
-          Welcome to Quiet time
+          Welcome to Quiet time. Develop your life
         </h1>        
       </header>
       <main>
